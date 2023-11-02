@@ -1,0 +1,54 @@
+.App{
+    background-image: url("/public/img5.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.App.img1 {
+    background-image: url("/public/img1.jpg");
+}
+.App.img2 {
+    background-image: url("/public/img2.jpg");
+}
+.App.img3 {
+    background-image: url("/public/img3.jpg");
+}
+.App.img4 {
+    background-image: url("/public/img4.jpg");
+}
+.App.img5 {
+    background-image: url("/public/img5.jpg");
+}
+.App.img6 {
+    background-image: url("/public/img6.jpg");
+}
+.App.img7 {
+    background-image: url("/public/img7.jpg");
+}
+.App.img8 {
+    background-image: url("/public/img8.jpg");
+}
+.App.img9 {
+    background-image: url("/public/img9.jpg");
+}
+.App.img10 {
+    background-image: url("/public/img10.jpg");
+}
+.App.img11 {
+    background-image: url("/public/img11.jpg");
+}
+.App.img13 {
+    background-image: url("/public/img13.jpg");
+}
+.App.img14 {
+    background-image: url("/public/img14.jpg");
+}
+.App.img15 {
+    background-image: url("/public/img15.jpg");
+}
+.App.img16 {
+    background-image: url("/public/img16.jpg");
+}
+.App.img17 {
+    background-image: url("/public/img17.jpg");
+}

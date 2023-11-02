@@ -1,0 +1,388 @@
+[
+    {
+        "id":1,
+        "name": "Vértigos de Ceniza",
+        "artist": "Santiago Insane",
+        "img": "./music_images/cenizas.jpg",
+        "punch_line": "...Soy un Rey invisible de todo lo que no me pertenece y lo que me quitaron...",
+        "link": "https://www.youtube.com/watch?v=xtXPlyEOyCA"
+    },
+    {   
+        "id":2,
+        "name": "Mi Renacimiento",
+        "artist": "Kase.O",
+        "img": "./music_images/renacimiento.jpg",
+        "punch_line": "...No es hacer, no es tener, es ser, es amar, es crear, no es huir ni temer...",
+        "link": "https://www.youtube.com/watch?v=4eCpDpZKUVs"
+    },
+    {
+        "id":3,
+        "name": "Todos van pa´allá",
+        "artist": "Aerophon",
+        "img": "./music_images/todosvanpaalla.jpg",
+        "punch_line": "...No me muevo, si no busco algo nuevo, sí no para que me juego en el juego...",
+        "link": "https://www.youtube.com/watch?v=wjfmhNEdJjo"
+    },
+    {
+        "id":4,
+        "name": "Hermético",
+        "artist": "El Jose",
+        "img": "./music_images/hermetico.jpg",
+        "punch_line": "...Buscar el truco men, pa´ que no falte la platica, no esperes recompensa, todos quieren su porción, pocos meten si la situación se pone tensa, vuelve y comienza...",
+        "link": "https://www.youtube.com/watch?v=M2Jt6fYPEWw"
+        
+    },
+    {
+        "id":5,
+        "name": "Calaveras",
+        "artist": "Noiseferatu",
+        "img": "./music_images/calaveras.jpg",
+        "punch_line": "...Hoy en una sola figura; soy el bueno, soy el malo, soy el feo, Soy la verdad, soy la mentira, soy la duda: Hasta la sepultura llevaré mis ataduras...",
+        "link": "https://www.youtube.com/watch?v=pudsYYjWAQ0"
+    },
+    {
+        "id":6,
+        "name": "Ultrasornero",
+        "artist": "Noiseferatu",
+        "img": "./music_images/ultrasornero.jpg",
+        "punch_line": "...Fluyendo limpio, sobre sonido sucio...",
+        "link": "https://www.youtube.com/watch?v=--mEr-o2YUw"
+    },
+    {
+        "id":7,
+        "name": "Rumbo a la nada",
+        "artist": "Santiago Insane",
+        "img": "./music_images/rumboalanada.jpg",
+        "punch_line": "...Demoniaco demencial o dimensional ningún adjetivo negativo me queda mal...",
+        "link": "https://www.youtube.com/watch?v=uY1xE8njsOU"
+    },
+    {
+        "id":8,
+        "name": "Luz",
+        "artist": "Lil Supa",
+        "img": "./music_images/luz.jpg",
+        "punch_line": "...Trasciende los planos reales, vive sin barreras mentales olvida las cosas vanales; que digan los tales y cuales...",
+        "link": "https://www.youtube.com/watch?v=nHjOdiMuWiY"
+    },
+    {
+        "id":9,
+        "name": "Moon Rock",
+        "artist": "Kiño",
+        "img": "./music_images/moonrock.jpg",
+        "punch_line": "...Me siento como cucaracha pero tal vez no es tan malo pues solo ellas quedarán cuando el de arriba decida todo acabarlo...",
+        "link": "https://www.youtube.com/watch?v=nhvEDTiy7YI"
+    },
+    {
+        "id":10,
+        "name": "Luz Escondida",
+        "artist": "Sho Hai",
+        "img": "",
+        "punch_line": "...Quiero querer quererme y que se apague el odio que ha nacido del fuego...",
+        "link": "https://www.youtube.com/watch?v=tFFTVMovEc0"
+    },
+    {
+        "id":11,
+        "name": "Visiones",
+        "artist": "Canserbero",
+        "img": "",
+        "punch_line": "...Crearan teléfonos que podrán llevarse en los bolsillos, bastante creativos la primera impresión... pero será otra adicción para los sentidos ademas del internet y la televisión...",
+        "link": "https://www.youtube.com/watch?v=PQiulZ34GIs"
+    },
+    {
+        "id":12,
+        "name": "Trafikante de Almas",
+        "artist": "Granuja",
+        "img": "",
+        "punch_line": "...Opiniones las respeto pero no comparto, No hay garantías y por eso vete si me tardo...",
+        "link": "https://www.youtube.com/watch?v=W9TtExcXKEM"
+    },
+    {
+        "id":13,
+        "name": "Otro día",
+        "artist": "Noiseferatu",
+        "img": "",
+        "punch_line": "...Aprendí de las palizas y de lo escaso, estático en mi interior viajo...",
+        "link": "https://www.youtube.com/watch?v=6oiw0C3xN2w"
+    },
+    {
+        "id":14,
+        "name": "Rabia",
+        "artist": "Mañas Ru-Fino",
+        "img": "",
+        "punch_line": "...Aquí escuchan las paredes, llevan chismes de lo lindo, algunos van en mercedez y en su casa ni han comido...",
+        "link": "https://www.youtube.com/watch?v=6oiw0C3xN2w"
+    },
+    {
+        "id":15,
+        "name": "Tierra",
+        "artist": "Horus",
+        "img": "",
+        "punch_line": "...el dinero no es fortuna; fortuna es la vida y algunos la pierden en la oficina...",
+        "link": "https://genius.com/Horus-tierra-domo-lyrics"
+    },
+    {
+        "id":16,
+        "name": "No me acuerdo",
+        "artist": "Oblivion´s mighty trash",
+        "img": "",
+        "punch_line": "...Hay mucho hueco en esa calle, pero eso no me frena, subo el volumen a 200 y alivio la pena...",
+        "link": "https://www.youtube.com/watch?v=S-LSBpCcMi8"
+    },
+    {
+        "id":17,
+        "name": "No me acuerdo",
+        "artist": "Oblivion´s mighty trash",
+        "img": "",
+        "punch_line": "...Me acuerdo de pocas cosas, pero si de quien me dio yerba y besitos antes de irme...",
+        "link": "https://www.youtube.com/watch?v=S-LSBpCcMi8"
+    },
+    {
+        "id":18,
+        "name": "Joyas",
+        "artist": "Granuja",
+        "img": "",
+        "punch_line": "...No todo lo que sabe bueno es comestible, pero al fin y al cabo hago lo que quiero, nada es imposible...",
+        "link": "https://www.youtube.com/watch?v=WkrI6NT513Q"
+    },
+    {
+        "id":19,
+        "name": "Joyas",
+        "artist": "Granuja",
+        "img": "",
+        "punch_line": "...De lado a lado como los cangrejos, jódeme que yo no medejo...",
+        "link": "https://www.youtube.com/watch?v=WkrI6NT513Q"
+    },
+    {
+        "id":20,
+        "name": "Lancha rápida",
+        "artist": "NRS",
+        "img": "",
+        "punch_line": "...En mi selencio solo pienso en ganar...",
+        "link": "https://www.youtube.com/watch?v=X0ggynTDtEk"
+    },
+    {
+        "id":21,
+        "name": "Lancha Rápida",
+        "artist": "Luis7Lunes",
+        "img": "",
+        "punch_line": "...Fuerza interior y color, más un coral que una roca...",
+        "link": "https://www.youtube.com/watch?v=X0ggynTDtEk"
+    },
+    {
+        "id":22,
+        "name": "Fe de Erratas",
+        "artist": "Lil supa",
+        "img": "",
+        "punch_line": "....en mi mente no existen podios ni primeros puestos, el recuerdo es mi peor virtud y mi mejor defecto...",
+        "link": "https://www.youtube.com/watch?v=mWpmqoeQIiw"
+    },
+    {
+        "id":23,
+        "name": "Lumbre bajo cero",
+        "artist": "Bárvaro El Urbano Vargas",
+        "img": "",
+        "punch_line": "...Ahora vivo en otro mundo, donde no ambiciono tanto y trato de ser felíz sin importar con quien ni cuando...",
+        "link": "https://www.youtube.com/watch?v=ChfX6iMrjXY"
+    },
+    {
+        "id":24,
+        "name": "En defensa propia",
+        "artist": "Apache",
+        "img": "",
+        "punch_line": "....A veces el mal triunfa sobre el bien, hasta que el bien decide enfrentarse contra el mal... es cuando el mal se confía y piensa que lo está haciendo bien, entonces el bien ataca con justicia y vence al mal...",
+        "link": "https://www.youtube.com/watch?v=BgQepgjulUU"
+    },
+    {
+        "id":25,
+        "name": "Rompiendo el hielo",
+        "artist": "Apache",
+        "img": "",
+        "punch_line": "...Ahora me la paso mas metido en estas cuestiones, buscando transportarme a otras dimensiones...",
+        "link": "https://www.youtube.com/watch?v=WkrI6NT513Q"
+    },
+    {
+        "id":26,
+        "name": "El día de mi suerte",
+        "artist": "Red Code",
+        "img": "",
+        "punch_line": "...Como Hector... buscando el día de mi suerte...",
+        "link": "https://www.youtube.com/watch?v=X0ggynTDtEk"
+    },
+    {
+        "id":27,
+        "name": "De la vida como película, comedia, tragedia y ficción",
+        "artist": "Canserbero",
+        "img": "",
+        "punch_line": "...Los obstaculos son una piñata a la que hay que darle palo aunque tengamos los ojitos requetevendados...",
+        "link": "https://www.youtube.com/watch?v=11IWuxAMEn8"
+    },
+    {
+        "id":28,
+        "name": "De la vida como película, comedia, tragedia y ficción",
+        "artist": "Canserbero",
+        "img": "",
+        "punch_line": "...sufrimos, gozamos, lloramos, reimos, desfrutamos y Lo bueno aprendemos de lo malo...",
+        "link": "https://www.youtube.com/watch?v=11IWuxAMEn8"
+    },
+    {
+        "id":29,
+        "name": "Llovía",
+        "artist": "Canserbero",
+        "img": "",
+        "punch_line": "...Respeto no merece el malo, sino quien consigue la felicidad, Ese si es el más malandro...",
+        "link": "https://www.youtube.com/watch?v=OhOXkBqCvY0"
+    },
+    {
+        "id":30,
+        "name": "Rap de Fondo",
+        "artist": "Zabaz",
+        "img": "",
+        "punch_line": "...Llegará el fin a la ironía de vivir como te toca, te lo digo como buen hip hopa...",
+        "link": "https://www.youtube.com/watch?v=fZ26v4CdDRA"
+    },
+    {
+        "id":31,
+        "name": "Rap de Fondo",
+        "artist": "Zabaz",
+        "img": "",
+        "punch_line": "...Es cruel pero aprendemos de lo que el otro mata, pa evitar que los insectos maten tu mata...",
+        "link": "https://www.youtube.com/watch?v=fZ26v4CdDRA"
+    },
+    {
+        "id":32,
+        "name": "R4PSTAR",
+        "artist": "Oblivion's Mighty Trash",
+        "img": "",
+        "punch_line": "...Me falta el odio cuando me sobra la ogánica...",
+        "link": "https://www.youtube.com/watch?v=qPVV58U4mik"
+    },
+    {
+        "id":33,
+        "name": "The Story of O.J.",
+        "artist": "Jay Z",
+        "img": "",
+        "punch_line": "...Libertad financiera es mi única esperanza, a la mierda vivir rico y morir pobre...",
+        "link": "https://www.youtube.com/watch?v=xf_cP-DsZMA"
+    },
+    [
+    {
+        "id": 35,
+        "name": "El Chico de las Poéticas",
+        "artist": "Luis 7 Lunes",
+        "img": "./music_images/luis7lunes.jpg",
+        "punch_line": "Me enamoré de la vida, desde que supe que ella es breve.",
+        "link": "Enlace de la canción de Luis 7 Lunes"
+    },
+    {
+        "id": 36,
+        "name": "Hueco",
+        "artist": "Vik Deal",
+        "img": "./music_images/vikdeal.jpg",
+        "punch_line": "Deja de decir que eres grande, si mides menos de un metro en la balanza.",
+        "link": "Enlace de la canción de Vik Deal"
+    },
+    {
+        "id": 37,
+        "name": "Revolución",
+        "artist": "NRS (Nuevas Razones Sociales)",
+        "img": "./music_images/nrs.jpg",
+        "punch_line": "La revolución está en la calle, no en los likes que das en tu perfil.",
+        "link": "Enlace de la canción de NRS"
+    },
+    {
+        "id": 38,
+        "name": "Ojos Café",
+        "artist": "Cejas Negras",
+        "img": "./music_images/cejasnegras.jpg",
+        "punch_line": "Los ojos son café, como el café que me tomé esta mañana.",
+        "link": "Enlace de la canción de Cejas Negras"
+    },
+    {
+        "id": 39,
+        "name": "Palabras, No Balas",
+        "artist": "Penyair",
+        "img": "./music_images/penyair.jpg",
+        "punch_line": "Mis versos son balas que no hieren cuerpos, sino almas.",
+        "link": "Enlace de la canción de Penyair"
+    },
+    {
+        "id": 40,
+        "name": "Lo Siento",
+        "artist": "Red Code",
+        "img": "./music_images/redcode.jpg",
+        "punch_line": "Lo siento, pero no me disculpo por ser quien soy.",
+        "link": "Enlace de la canción de Red Code"
+    },
+    {
+        "id": 41,
+        "name": "Aladelta",
+        "artist": "El Jose",
+        "img": "./music_images/eljose.jpg",
+        "punch_line": "Vuela alto, mi aladelta, no te dejes caer por nada.",
+        "link": "Enlace de la canción de El Jose"
+    },
+    {
+        "id": 42,
+        "name": "Rimas Delirantes",
+        "artist": "Noiseferatu",
+        "img": "./music_images/noiseferatu.jpg",
+        "punch_line": "Mis rimas son delirantes, pero la realidad es aún más loca.",
+        "link": "Enlace de la canción de Noiseferatu"
+    },
+    {
+        "id": 43,
+        "name": "Canción para los Buitres",
+        "artist": "Granuja",
+        "img": "./music_images/granuja.jpg",
+        "punch_line": "Si eres un buitre, vuela lejos, aquí no encontrarás carroña.",
+        "link": "Enlace de la canción de Granuja"
+    },
+    {
+        "id": 44,
+        "name": "Línea de Fuego",
+        "artist": "Métricas",
+        "img": "./music_images/metricas.jpg",
+        "punch_line": "Mis rimas son una línea de fuego que nadie puede cruzar.",
+        "link": "Enlace de la canción de Métricas"
+    },
+    {
+        "id": 45,
+        "name": "Pura Sangre",
+        "artist": "Mañas",
+        "img": "./music_images/manas.jpg",
+        "punch_line": "Corre por mis venas pura sangre de rapero.",
+        "link": "Enlace de la canción de Mañas"
+    },
+    {
+        "id": 46,
+        "name": "Parálisis del Sueño",
+        "artist": "Ovlivions",
+        "img": "./music_images/ovlivions.jpg",
+        "punch_line": "El miedo es solo una ilusión, en mi mundo no tiene cabida.",
+        "link": "Enlace de la canción de Ovlivions"
+    },
+    {
+        "id": 47,
+        "name": "Rap Demente",
+        "artist": "Santiago Insane",
+        "img": "./music_images/santiagoinsane.jpg",
+        "punch_line": "En el rap, mi mente es demente, y mi flow es como un torrente.",
+        "link": "Enlace de la canción de Santiago Insane"
+    },
+        {
+        "id": 48,
+        "name": "Modestia aparte",
+        "artist": "Sho Hai",
+        "img": "./music_images/default.jpg",
+        "punch_line": "De lo que no ves, no te creas NADA... de Lo que ves; créete la MITAD",
+        "link": "https://www.youtube.com/watch?v=_TITeOeZXfc"
+        }
+    
+]
+
+    
+
+
+]
+
+
