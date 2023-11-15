@@ -17,7 +17,7 @@
     },
     {
         "id":3,
-        "name": "Todos van pa´allá",
+        "name": "Todos van pa allá",
         "artist": "Aerophon",
         "img": "./music_images/todosvanpaalla.jpg",
         "punch_line": "...No me muevo, si no busco algo nuevo, sí no para que me juego en el juego...",
@@ -28,7 +28,7 @@
         "name": "Hermético",
         "artist": "El Jose",
         "img": "./music_images/hermetico.jpg",
-        "punch_line": "...Buscar el truco men, pa´ que no falte la platica, no esperes recompensa, todos quieren su porción, pocos meten si la situación se pone tensa, vuelve y comienza...",
+        "punch_line": "...Buscar el truco men, pa que no falte la platica, no esperes recompensa, todos quieren su porción, pocos meten si la situación se pone tensa, vuelve y comienza...",
         "link": "https://www.youtube.com/watch?v=M2Jt6fYPEWw"
         
     },
@@ -367,7 +367,7 @@
         "artist": "Santiago Insane",
         "img": "./music_images/santiagoinsane.jpg",
         "punch_line": "En el rap, mi mente es demente, y mi flow es como un torrente.",
-        "link": "Enlace de la canción de Santiago Insane"
+        "link": ""
     },
         {
         "id": 48,
@@ -376,8 +376,57 @@
         "img": "./music_images/default.jpg",
         "punch_line": "De lo que no ves, no te creas NADA... de Lo que ves; créete la MITAD",
         "link": "https://www.youtube.com/watch?v=_TITeOeZXfc"
+        },
+        {
+            "id": 49,
+            "name": "Vengo",
+            "artist": "Barbaro el urbano Vargas",
+            "img": "./music_images/santiagoinsane.jpg",
+            "punch_line": "Adoctrinado desde un comienzo como todos, yo también marché sin saber que estaba apoyando un robo",
+            "link": "https://www.youtube.com/watch?v=WMQOVOqoDt0&list=RDMs-EQoXtQtc&index=2"
+        },
+        {
+            "id": 50,
+            "name": "Vengo",
+            "artist": "Barbaro el urbano Vargas",
+            "img": "./music_images/santiagoinsane.jpg",
+            "punch_line": "Los golpes que creiste que harían que me quitará me dieron mas hambre... ",
+            "link": "https://www.youtube.com/watch?v=WMQOVOqoDt0&list=RDMs-EQoXtQtc&index=2"
+        },
+        {
+            "id": 51,
+            "name": "Vengo",
+            "artist": "Barbaro el urbano Vargas",
+            "img": "./music_images/santiagoinsane.jpg",
+            "punch_line": "...Trataron con el chisme, porque la verdad es discreta y discrepa con la tendencia de hacer que todo se sepa...",
+            "link": "https://www.youtube.com/watch?v=WMQOVOqoDt0&list=RDMs-EQoXtQtc&index=2"
+        },
+        {
+            "id": 52,
+            "name": "El dia de mi suerte",
+            "artist": "Red Code",
+            "img": "./music_images/santiagoinsane.jpg",
+            "punch_line": "...Como Héctor, buscando el día de mi suerte...",
+            "link": "https://www.youtube.com/watch?v=WMQOVOqoDt0&list=RDMs-EQoXtQtc&index=2"
+        },
+        {
+            "id": 53,
+            "name": "No.30 / BEATZ EN CASA 9ª TEMPORADA",
+            "artist": "Zof Ziro A.k.A. Doble Zeta",
+            "img": "",
+            "punch_line": "...Lo más bello es lo mas sencillo, métale con fe que ya viene lo suyo...",
+            "link": "https://www.youtube.com/watch?v=VW2Dlo2tO0M"
+        },
+        {
+            "id": 54,
+            "name": "",
+            "artist": "",
+            "img": "",
+            "punch_line": "",
+            "link": ""
         }
-    
+        
+        
 ]
 
     
